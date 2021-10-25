@@ -5,7 +5,6 @@ int main(){
  //   cout << "test 2" << endl;
     eightpuzzle test;
     test.startGame();
-    
 
     return 0;
 }
